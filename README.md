@@ -1,4 +1,4 @@
-# AI Application SYstem
+# AI Application System
 ai projects
 
 Name : Javokhir
