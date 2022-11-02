@@ -33,6 +33,8 @@ https://github.com/4924ai/projects_22/blob/main/week_7.ipynb
 
 Week_9
 
+https://github.com/4924ai/projects_22/blob/main/week_9_1.ipynb
+
 
 
 
