@@ -35,6 +35,11 @@ Week_9
 
 https://github.com/4924ai/projects_22/blob/main/week_9_1.ipynb
 
+https://github.com/4924ai/projects_22/blob/main/week_9_2.ipynb
+
+Week_10
+
+https://github.com/4924ai/projects_22/blob/main/week_10.ipynb
 
 
 
