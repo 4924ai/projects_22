@@ -130,6 +130,9 @@ Contents:
 • Creating a network of LSTM cells
 • Alternative view of LSTM
 
+https://github.com/4924ai/projects_22/blob/main/week_12.ipynb
+
+
 Week_13
 
 Text Autocompletion with LSTM and Beam
@@ -141,3 +144,10 @@ Contents:
 • Beam Search
 • Bidirectional RNNS
 • Different combinations of input and output sequences
+
+https://github.com/4924ai/projects_22/blob/main/week_13.ipynb
+
+
+Week_14
+
+ https://github.com/4924ai/projects_22/blob/main/week_14.ipynb
