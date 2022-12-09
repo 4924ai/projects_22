@@ -50,4 +50,20 @@ Convolutional Neural Networks • The CIFAR-10 Dataset • Characteristics and b
 
 https://github.com/midterm21/midterm-assignment/blob/main/week_7.ipynb
 
+Week_9
 
+
+Fully Connected Networks Applied to
+Regression
+2
+Contents:
+• Logistic unit for binary classification
+• Softmax unit for multiclass classification
+• Linear unit for regression
+• The Boston Housing dataset
+• Predicting house prices with a DNN
+• Improving generalization with regularization
+• Experiment: Deeper and regularized models for house
+price prediction
+• Concluding remarks on output units and regression
+problems
